@@ -2,3 +2,4 @@ git add <file_name>
 git commit -m "Message"
 
 git branch
+git checkout <name_branch>
